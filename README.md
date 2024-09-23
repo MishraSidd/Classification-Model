@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster
+# Binary Classification Challenge: Titanic Survival
 This repository contains the notebook used for predicting the survival of passengers aboard the Titanic. The dataset is sourced from the popular Kaggle competition, and multiple machine learning models are explored to evaluate their performance.
 
 ## Project Overview
